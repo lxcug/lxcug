@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Game Engine Developing in Tencent
+- 🔭 Game Engine Developer in Tencent
+- 🌱 I’m currently learning Vulkan, Path Tracing, ReSTIR, Denoising
 - 📫 How to reach me: cugluxu@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxcug)](https://github.com/lxcug/github-readme-stats)
