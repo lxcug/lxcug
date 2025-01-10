@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Game Engine Developing in Tencent
 - 📫 How to reach me: cugluxu@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxcug)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxcug)](https://github.com/lxcug/github-readme-stats)
