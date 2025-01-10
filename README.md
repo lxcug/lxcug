@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Game Engine Developer in Tencent
+- 🔭 Game Engine Developer at Tencent
 - 🌱 I’m currently learning Vulkan, Path Tracing, ReSTIR, Denoising
 - 📫 How to reach me: cugluxu@gmail.com
 
