@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cugluxu@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxcug&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxcug)](https://github.com/anuraghazra/github-readme-stats)
